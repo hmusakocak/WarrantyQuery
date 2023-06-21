@@ -33,9 +33,9 @@ namespace WarrantyQuery.Functions
 
             SmtpServer oServer = new SmtpServer("smtp.gmail.com");
 
-            oServer.User = "warrantyquery@gmail.com";
+            oServer.User = "*************@gmail.com";
 
-            oServer.Password = "hpwxymaokcycvsar";
+            oServer.Password = "*******************";
 
 
             oServer.Port = 465;
